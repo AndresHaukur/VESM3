@@ -24,4 +24,5 @@ Helstu hönnunarákvarðanir voru teknar af Úlf þar sem að hann hannaði kass
 ---
 tengill á kóðana(þeir eru líka ef þú ferð í þetta repositorie þá eru allar myndirnar og allt þar)
 [1]: http://slashdot.org
+<http://www.example.com>
 ---
