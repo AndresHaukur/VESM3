@@ -13,3 +13,17 @@ markmið verkefnisins var að gera fúnkerandi system sem skráir niður tíma s
 ---
 hérna er 3d teikningin af hysingunni okkar fyrir skannann og skjáinn(það eru 2 kassarnir í miðjunni hinir eru protofails)
 ![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
+---
+youtube tengil af því að virka
+![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
+---
+ljósmyndir af verkefninu samsettu
+![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
+---
+hérna er 3d teikningin af hysingunni okkar fyrir skannann og skjáinn(það eru 2 kassarnir í miðjunni hinir eru protofails)
+![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
+---
+Helstu hönnunarákvarðanir voru teknar af Úlf þar sem að hann hannaði kassana til 3d prentunar og þær voru mjog basic. það þurfti að passa skanninn og Rpi í 1 kassa og Rpi og skjárinn passa í annan kassa. vírarnir eru faldir innan í kassanum til að gera snyrtilegt
+---
+tengill á kóðana(þeir eru líka ef þú ferð í þetta repositorie þá eru allar myndirnar og allt þar)
+![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
