@@ -11,4 +11,5 @@
 ---
 markmið verkefnisins var að gera fúnkerandi system sem skráir niður tíma sem að manneskja með réttu rétitndin skannar sig inn með RFID og taka þá nafn hennar og prenta á skjá nálægt en sem gæti þá verið hvar sem er. þetta gæti verið notað sem stimpilklukka fyrir fyrirtæki eða jafnvel bara öryggissystem til að komast baka til t.d. í verslun eða á stað sem þú vilt læstan bakvið RFID. 
 ---
----
+hérna er 3d teikningin af hysingunni okkar fyrir skannann og skjáinn(það eru 2 kassarnir í miðjunni hinir eru protofails)
+![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
