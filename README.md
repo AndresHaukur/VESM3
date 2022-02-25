@@ -10,3 +10,5 @@
 <br>
 ---
 markmið verkefnisins var að gera fúnkerandi system sem skráir niður tíma sem að manneskja með réttu rétitndin skannar sig inn með RFID og taka þá nafn hennar og prenta á skjá nálægt en sem gæti þá verið hvar sem er. þetta gæti verið notað sem stimpilklukka fyrir fyrirtæki eða jafnvel bara öryggissystem til að komast baka til t.d. í verslun eða á stað sem þú vilt læstan bakvið RFID. 
+---
+---
