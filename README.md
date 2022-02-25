@@ -27,3 +27,4 @@ Helstu hönnunarákvarðanir voru teknar af Úlf þar sem að hann hannaði kass
 ---
 tengill á kóðana(þeir eru líka ef þú ferð í þetta repositorie þá eru allar myndirnar og allt þar)
 ![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
+---
