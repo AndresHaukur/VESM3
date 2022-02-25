@@ -23,6 +23,5 @@ ljósmyndir af verkefninu samsettu
 Helstu hönnunarákvarðanir voru teknar af Úlf þar sem að hann hannaði kassana til 3d prentunar og þær voru mjog basic. það þurfti að passa skanninn og Rpi í 1 kassa og Rpi og skjárinn passa í annan kassa. vírarnir eru faldir innan í kassanum til að gera snyrtilegt
 ---
 tengill á kóðana(þeir eru líka ef þú ferð í þetta repositorie þá eru allar myndirnar og allt þar)
-[1]: http://slashdot.org
 <http://www.example.com>
 ---
