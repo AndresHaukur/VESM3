@@ -15,6 +15,7 @@ hérna er 3d teikningin af hysingunni okkar fyrir skannann og skjáinn(það eru
 ![3D](https://github.com/AndresHaukur/VESM3/blob/main/Work_login_system_2.stl "3D")
 ---
 youtube tengil af því að virka
+![mamma þín](https://youtu.be/dn5dYKwHWHo "OLED")
 ![3Dd](https://youtu.be/dn5dYKwHWHo "3Dd")
 ---
 ljósmyndir af verkefninu samsettu
